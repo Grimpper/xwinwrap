@@ -1,4 +1,4 @@
-PREFIX ?= /usr/local
+PREFIX ?= /usr/test
 BINPREFIX ?= $(PREFIX)/bin
 
 CC = gcc
